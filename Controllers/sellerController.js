@@ -1,4 +1,4 @@
-const Seller = require("../Modals/Seller");
+const Seller = require("../Modals/seller");
 const Mongoose = require("mongoose");
 
 

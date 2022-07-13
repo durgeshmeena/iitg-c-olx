@@ -1,7 +1,7 @@
 const AdminBro = require('admin-bro')
 const AdminBroMongoose = require('admin-bro-mongoose');
 const AdminBroExpress = require('admin-bro-expressjs')
-const Seller = require('../Modals/Seller')
+const Seller = require('../Modals/seller')
 const Product = require('../Modals/Product')
 
 
